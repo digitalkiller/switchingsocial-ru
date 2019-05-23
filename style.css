@@ -31,16 +31,22 @@ hr {
 
 h1, h2 {
     margin: 20px 0;
+    font-family: 'ComicReliefRegular', fantasy;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 1.5rem;
 }
 
 p {
     margin: 20px 0;
     color: #717171;
+    font-family: 'LiberationSansRegular', 'Helvetica', sans-serif;
+    font-size: 21px;
 }
 
 a {
     margin: 20px 0;
-    color: #7B7B7B;
+    color: #111;
 }
 
 .footer a {
@@ -49,6 +55,7 @@ a {
 
 .footer p {
     color: #E6E6E6;
+    font-size: 1rem;
 }
 
 .content {
